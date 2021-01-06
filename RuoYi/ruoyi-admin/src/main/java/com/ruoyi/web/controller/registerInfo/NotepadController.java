@@ -29,6 +29,7 @@ import com.ruoyi.common.core.page.TableDataInfo;
 @RequestMapping("/system/notepad")
 public class NotepadController extends BaseController
 {
+
     private String prefix = "system/notepad";
 
     @Autowired
